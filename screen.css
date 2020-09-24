@@ -1,0 +1,18 @@
+
+body {
+	text-align: center;
+	background-color: rgb(0,0,255);
+}
+
+
+label {
+	font-size: 20pt;
+	color: rgb(105,105,105);
+	font-weight: normal;
+}
+
+h2 {
+	font-size: 24pt;
+	color: rgb(105,105,105);
+	font-weight: bold;
+}
